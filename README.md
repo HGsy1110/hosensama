@@ -1,2 +1,1 @@
-# hosensama
-meks
+HOSEA OKTARIVANES FERDINAN SINAGA
