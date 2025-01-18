@@ -27,7 +27,7 @@
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/classical-de-music.git
+   git clone https://github.com/HGsy1110/hosensama.git
    ```
 2. Buka file `index.html` di browser Anda.
 3. Nikmati koleksi musik klasik yang tersedia!
