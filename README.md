@@ -31,6 +31,7 @@
    ```
 2. Buka file `index.html` di browser Anda.
 3. Nikmati koleksi musik klasik yang tersedia!
+4. Bisa juga di akses melalui 'https://hgsy1110.github.io/hosensama'
 
 ## 📌 Pengembangan Mendatang
 
