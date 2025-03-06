@@ -44,6 +44,3 @@
 
 Kontribusi sangat diterima! Jika Anda memiliki ide atau saran untuk meningkatkan proyek ini, silakan buat pull request atau buka issue.
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
